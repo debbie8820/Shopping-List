@@ -1,0 +1,31 @@
+html{
+	height:100%;
+}
+
+
+body{
+	text-align:center;
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: rgb(166,192,254);
+background: linear-gradient(309deg, rgba(166,192,254,1) 20%, rgba(246,128,132,0.9616888991924895) 74%);
+}
+
+/*.container{
+	text-align:center;
+	font-family: 'Josefin Sans', sans-serif;
+	background-color: rgb(166,192,254);
+background: linear-gradient(309deg, rgba(166,192,254,1) 20%, rgba(246,128,132,0.9616888991924895) 74%);
+}*/
+
+.done{
+	text-decoration:line-through;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	padding:5px 0px;
+}
+
